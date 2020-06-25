@@ -50,7 +50,7 @@ Pypi to download the video.<br>
 
 Run 
 =
-First, you should pip install youtube_dl and lyricwikia and beautiful soup. Then, you can start to run the <br>
+First, you should *pip install youtube_dl and lyricwikia and beautiful soup*.Then, you can start to run the <br>
 project. First, the project will request the user to enter a singer’s name(for example Adele, maroon 5 etc). <br>
 Then the project will demo a song and request the user to enter Y if you wan’t the lyric of the song(enter N if <br>
 user do not want the lyric of the song), after it, the program will request user to enter Y if you wan’t to download<br>
