@@ -41,11 +41,13 @@ got plenty of time to finish and complete my final project.<br>
 
 Update2
 ===
+
 I change using ultimate guitar pypi to find guitar lab because the PYPI have right reserved, and <br>
 should py money for using it .Thus, I change my project intention to find the lyric of the song by<br>
 using lyricwika Pypi. Also, I cannot success to download my video by pytube, it runs out that the url <br>
 did not have a kind of form and I don,t really know what’s wrong with it. So I change to use youtube-dl<br>
 Pypi to download the video.<br>
+
 Run 
 =
 First, you should pip install youtube_dl and lyricwikia and beautiful soup. Then, you can start to run the <br>
